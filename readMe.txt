@@ -1,0 +1,3 @@
+版本资源更新的dll库
+ApkInfo.xml是放在远程的工具目录
+versionInfo.xml是本地的版本信息文件

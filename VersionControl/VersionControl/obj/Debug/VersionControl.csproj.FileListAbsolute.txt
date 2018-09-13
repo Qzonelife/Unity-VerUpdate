@@ -1,0 +1,8 @@
+E:\C#Project\VersionControl\VersionControl\bin\Debug\VersionControl.dll
+E:\C#Project\VersionControl\VersionControl\bin\Debug\VersionControl.pdb
+E:\C#Project\VersionControl\VersionControl\bin\Debug\UnityEngine.dll
+E:\C#Project\VersionControl\VersionControl\obj\Debug\VersionControl.csprojResolveAssemblyReference.cache
+E:\C#Project\VersionControl\VersionControl\obj\Debug\VersionControl.csproj.CoreCompileInputs.cache
+E:\C#Project\VersionControl\VersionControl\obj\Debug\VersionControl.csproj.CopyComplete
+E:\C#Project\VersionControl\VersionControl\obj\Debug\VersionControl.dll
+E:\C#Project\VersionControl\VersionControl\obj\Debug\VersionControl.pdb
